@@ -1,1 +1,2 @@
-This is a final assignment for CSC343:Introduction to Databases. I was in charge of writing ddl file as well as SQL queries to find correct data from the dataset.
+This is a final assignment for CSC343:Introduction to Databases. 
+This assignment aims to design SQL schema and write correct SQL queries to get responsible data.
